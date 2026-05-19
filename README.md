@@ -34,5 +34,5 @@
 
 1. **Клонируйте репозиторий:**
 ```bash
-git clone https://github.com/your-username/mood-tracker-bot.git
+git clone https://github.com/mag859217-tech/-
 cd mood-tracker-bot
